@@ -1,0 +1,33 @@
+.Finger {
+  text-align: center;
+  color: red;
+  font-family: impact, sans-serif;
+}
+.Finger  .menu {
+  list-style: none;
+  padding: 0%;
+  background-color: red;
+  width: 90%;
+  margin: auto;
+  max-width: 1000px;
+}
+.Finger  .menu li {
+  display: inline-block;
+  text-align: center;
+}
+.Finger  .menu li .menu li a {
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.Inicio {
+  text-align: center;
+  margin: 30px;
+}
+.Inicio .card {
+  display: inline-block margin 10px;
+}
+
+/*# sourceMappingURL=panchito.css.map */

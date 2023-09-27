@@ -1,0 +1,47 @@
+.Finger {
+  text-align: center;
+  color: red;
+  font-family: impact, sans-serif;
+}
+
+nav .menu {
+  list-style: none;
+  padding: 0%;
+  background-color: red;
+  width: 90%;
+  margin: auto;
+  max-width: 1000px;
+}
+nav .menu li {
+  display: inline-block;
+  text-align: center;
+}
+nav .menu li a {
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.Productos {
+  text-align: center;
+  margin: 30px;
+}
+
+.card {
+  display: inline-block;
+}
+
+.card {
+  margin: 10px;
+}
+
+footer .Redes {
+  display: inline;
+}
+footer .Redes1 {
+  display: inline-block;
+}
+footer .Redes1 {
+  margin: 30px;
+}/*# sourceMappingURL=productto.css.map */

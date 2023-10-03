@@ -1,0 +1,40 @@
+
+.Finger{
+    text-align: center;
+    color: red;
+    font-family: impact,sans-serif;
+}
+
+nav{
+.menu{
+    list-style: none;
+    padding: 0%;
+    background-color: red;
+    width: 90%;
+    margin: auto;
+    max-width: 1000px;}
+    .menu li{ 
+        display: inline-block;
+        text-align: center;}
+        .menu li a{
+            text-decoration: none;
+            color: white;
+            padding : 20px;
+            display : block;}
+        }
+    .animate__animated{
+        text-align: center;
+        color: orange;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    .parrafo1{
+        text-align: center;
+        color: orangered;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    
+
+    @media (min-width: 767px){
+
+    }
+    

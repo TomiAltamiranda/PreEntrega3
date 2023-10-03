@@ -1,0 +1,41 @@
+nav .menu {
+  list-style: none;
+  padding: 0%;
+  background-color: red;
+  width: 90%;
+  margin: auto;
+  max-width: 1000px;
+}
+nav .menu li {
+  display: inline-block;
+  text-align: center;
+}
+nav .menu li a {
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.contacto {
+  text-align: center;
+  margin: 30px;
+}
+
+.formulario {
+  width: 500px;
+  margin: 20px auto;
+}
+.formulario .colorpropio {
+  background-color: red;
+}
+
+footer .Redes {
+  display: inline;
+}
+footer .Redes1 {
+  display: inline-block;
+}
+footer .Redes1 {
+  margin: 30px;
+}/*# sourceMappingURL=contacto.css.map */
